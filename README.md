@@ -2,8 +2,7 @@
 # Intro
 Dark Discord theme originally created by SolFi#0001
 Hue based off a color wheel, Saturation for a shade gray (0%) to the full color(100%) from hue, and Lightness is the amount of light the color has 0% for black, 100% for white.
-This theme is a rewite of the original to provide the user with a lot of more variables to change the difference in colours or to keep a monotone of a particular color.
-A [guide](https://github.com/Asteria5675/BetterDiscordThemes/blob/master/null/README.md/#Visual-Guides) on editing the variables of null.
+This theme is a rewite of my original to provide the user with a lot of more variables to change the difference in colours or to keep a monotone of a particular color.
 
 ## Dark Discord Preview
 ![Dark Discord](https://github.com/SkyeX9/Dark-Discord/blob/main/Screenshots/Discord_5JgBkb6tqg.png)
