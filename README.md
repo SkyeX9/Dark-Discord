@@ -46,9 +46,9 @@ was setup as background image gradient user may delete the whole gradient and re
 ```
 
 ## Final Notes
-please read this readme to fully understand the countless possibilities of altering this theme.
+Please read this readme to fully understand the countless possibilities of altering this theme.
 
 Speaking of making these themes for free if you really wanted to donate to me so I can live off another energy drink or two, then request the donate link enough on my server and I might make one who knows. I prefer not to advertise such though :)
 
 ## Readme
-once again, it's called a `readme` for a reason. If you cannot understand anything from here, then you are better off with another theme.
+Once again, it's called a `readme` for a reason. If you cannot understand anything from here, then you are better off with another theme.
