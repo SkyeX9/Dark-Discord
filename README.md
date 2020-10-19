@@ -52,4 +52,4 @@ please read this readme to fully understand the countless possibilities of alter
 Speaking of making these themes for free if you really wanted to donate to me so I can live off another energy drink or two, then request the donate link enough on my server and I might make one who knows. I prefer not to advertise such though :)
 
 ## Readme
-once again, it's called a `readme` for a reason. Start <a href="https://github.com/SkyeX9/Dark-Discord/README.md/#Intro">here</a> to understand how to change this theme to your desired background color/image. If you cannot understand anything from here, then you are better off with another theme.
+once again, it's called a `readme` for a reason. If you cannot understand anything from here, then you are better off with another theme.
