@@ -2,7 +2,7 @@
 # Intro
 Dark Discord theme originally created by SolFi#0001
 
-This theme is a rewite of my original to provide the user with a lot of more variables to change the difference in colours or to keep a monotone of a particular color.
+This theme is a rewite of my original to provide the user with a lot of more variables to change the difference in colours or to keep a monotone of a particular color. If this theme ever becomes outdated, I may or may not update it. 
 
 ## Dark Discord Preview
 ![Dark Discord](https://github.com/SkyeX9/Dark-Discord/blob/main/Screenshots/Discord_5JgBkb6tqg.png)
