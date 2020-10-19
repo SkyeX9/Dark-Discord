@@ -1,6 +1,7 @@
 
 # Intro
 Dark Discord theme originally created by SolFi#0001
+
 Hue based off a color wheel, Saturation for a shade gray (0%) to the full color(100%) from hue, and Lightness is the amount of light the color has 0% for black, 100% for white.
 This theme is a rewite of my original to provide the user with a lot of more variables to change the difference in colours or to keep a monotone of a particular color.
 
